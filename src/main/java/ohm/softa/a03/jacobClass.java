@@ -1,4 +1,4 @@
-package ohm.softa.a03.tests;
+package ohm.softa.a03;
 
 public class jacobClass {
 }
